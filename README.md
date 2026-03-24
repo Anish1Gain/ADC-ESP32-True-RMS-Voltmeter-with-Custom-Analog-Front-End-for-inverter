@@ -1,0 +1,2 @@
+# ADC-ESP32-True-RMS-Voltmeter-with-Custom-Analog-Front-End-for-inverter
+This project measures AC voltages using an ESP32. A custom analog front-end safely steps down and DC-biases a ±5V AC input into the ADC's 0-3.3V window using op-amps and diode protection. The firmware samples this conditioned signal, removes the offset, applies the correct gain, and calculates the True RMS voltage for real-time monitoring.
