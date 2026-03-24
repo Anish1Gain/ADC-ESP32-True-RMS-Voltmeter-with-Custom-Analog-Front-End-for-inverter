@@ -1,0 +1,20 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\User\Desktop\Programs\ADC signal processing\Simulation\Input_stage_simulation_with_OP-AMP.net
+Start Time: Mon Mar 23 22:18:16 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.200 seconds.
+
+Files loaded:
+C:\Users\User\Desktop\Programs\ADC signal processing\Simulation\Input_stage_simulation_with_OP-AMP.net
+C:\Users\User\AppData\Local\LTspice\lib\sub\Contrib\Toshiba\DIODE\TBAT54_enc.lib
+C:\Users\User\AppData\Local\LTspice\lib\sub\LTC.lib
+C:\Users\User\AppData\Local\LTspice\lib\sub\LTC5.lib
+
